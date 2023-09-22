@@ -1,3 +1,5 @@
+*NOTE* ---> I used chatgpt for coding assistance & to help me understand the reasons for every code that I modified to fit the acceptance criteria <--- *NOTE*
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -10,7 +12,7 @@ The two types of Challenges are the following:
 
 * **On-the-job ticket** or **feature request Challenges** give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format.
 
-> **Important**: For assignments with starter code, be sure to copy the contents of the `Develop` folder directly into your repository. Do not include the `Develop` folder itself.
+ **Important**: For assignments with starter code, be sure to copy the contents of the `Develop` folder directly into your repository. Do not include the `Develop` folder itself.
 
 * **Job-seeking coding assessments** or **take-home assignments** don't provide starter code. You'll build these from scratch. Even-numbered modules follow this format.
 
@@ -18,7 +20,7 @@ The two types of Challenges are the following:
 
 Challenges adhere to a format that's commonly used by software development teams that use **agile project management** to manage their work. Practicing this will prepare you for the workflows you'll experience as a professional full-stack web developer. 
 
-> **Deep Dive**: To learn more about agile, read this [Wikipedia article on agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
+ **Deep Dive**: To learn more about agile, read this [Wikipedia article on agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
 
 Each Challenge contains the following elements:
 
@@ -36,7 +38,7 @@ This week is an odd-numbered week, so your Challenge is an on-the-job ticket&mda
 
 **Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible. 
 
-> **Important**: When working with someone else's code, you should adhere to the **Scout Rule**&mdash;always leave the code a little cleaner than when you found it.
+ **Important**: When working with someone else's code, you should adhere to the **Scout Rule**&mdash;always leave the code a little cleaner than when you found it.
 
 An increasingly important consideration for businesses, web **accessibility** ensures that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards. Accessibility is good for business&mdash;for one thing, accessible sites rank higher in search engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
 
@@ -76,7 +78,7 @@ The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+**Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
 ## Getting Started
 
@@ -92,21 +94,21 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 
 5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
 
-> **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
+ **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
 
 Be sure to add, commit, and push your work to see the most up-to-date version of your app!
 
 ## Grading Requirements
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+ **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
+
+ * A repository that has no code
+
+ * A repository that includes a unique name but nothing else
+
+ * A repository that includes only a README file but nothing else
+
+ * A repository that only includes starter code
 
 This Challenge is graded based on the following criteria: 
 
